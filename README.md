@@ -46,4 +46,3 @@ Here are some ideas to get you started:
 </div>
 
   
-  ![snake gif](https://github.com/Pedrohswd/Pedrohswd/blob/output/github-contribution-grid-snake.svg)
