@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rocharubens4@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/RubensCarvalhoRocha=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/RubensCarvalhoRochaanuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
