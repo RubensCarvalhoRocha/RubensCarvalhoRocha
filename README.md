@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Angular and Java for web aplications.
 - 📫 How to reach me: rocharubens4@gmail.com
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/RubensCarvalhoRochaanuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/RubensCarvalhoRocha">
+  <img height="180em" whidth= 50% src="https://github-readme-stats.vercel.app/api?username=RubensCarvalhoRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" whidth= 50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensCarvalhoRocha&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 
 <div style="display: inline_block"><br>
