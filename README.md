@@ -2,7 +2,6 @@
   <a href="https://www.linkedin.com/in/rubens-rocha-a219a5211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <h1> Hi, my name is Rubens Rocha :call_me_hand: </h1>
-<h2> I'm Software Developer </h2>
 
 <!-- 
 **RubensCarvalhoRocha/RubensCarvalhoRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
