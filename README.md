@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Wellcome to my GitHub profile!
-
-- 🔭 I’m currently working as a fullstack web developer intern on Campotech, a Software House focused on technological solutions for agribusiness.
-- 🌱 I’m currently learning Angular and Java for web aplications.
+- 🌱 I’m currently working as a fullstack web developer intern on Campotech, a Software House focused on technological solutions for agribusiness.
+- 🔭 I’m currently studying Software Engineering and Computer Science.
 - 📫 How to reach me: rocharubens4@gmail.com
 
 <div>
