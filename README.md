@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently working as a fullstack web developer intern on Campotech, a Software House focused on technological solutions for agribusiness.
-- 🔭 I’m currently studying Software Engineering and Computer Science.
+- :mortar_board: I’m currently studying Software Engineering and Computer Science.
 - 📫 How to reach me: rocharubens4@gmail.com
 
 
