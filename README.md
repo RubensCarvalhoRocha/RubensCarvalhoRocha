@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently working as a fullstack web developer intern on Campotech, a Software House focused on technological solutions for agribusiness from(Faeg/Senar).
+- 🌱 I’m currently working as a fullstack web developer intern on Campotech, a Software House focused on technological solutions for agribusiness from FAEG/SENAR/IFAG: https://www.linkedin.com/company/sistemafaeg/.
 - :mortar_board: I’m currently studying Software Engineering and Computer Science.
 - 📫 How to reach me: rocharubens4@gmail.com
 
