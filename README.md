@@ -27,13 +27,13 @@ Here are some ideas to get you started:
   
 <a href="https://www.linkedin.com/in/rubens-rocha-a219a5211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
+<!-- 
 <div>
   <a href="https://github.com/RubensCarvalhoRocha">
   <img height="180em" whidth= 50% src="https://github-readme-stats.vercel.app/api?username=RubensCarvalhoRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" whidth= 50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensCarvalhoRocha&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+-->
 
 ### Stacks
 
@@ -47,12 +47,13 @@ Here are some ideas to get you started:
 <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="26" height="26" alt="Docker"/></a>
 </p>
   
-
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RubensCarvalhoRocha/RubensCarvalhoRocha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RubensCarvalhoRocha/RubensCarvalhoRocha/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RubensCarvalhoRocha/RubensCarvalhoRocha/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 
   
